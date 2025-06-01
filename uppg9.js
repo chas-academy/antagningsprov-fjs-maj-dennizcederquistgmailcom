@@ -13,8 +13,10 @@ function uppg9 (){
 
 //         for (let number of numbers) {
 //             if (number % 2 === 0) {
+//                 console.log(number, "jämt");
 //                 result.push([number, "jämt"]);
 //             } else {
+//                 console.log(number, "udda");
 //                 result.push([number, "udda"]);
 //             }
 //         }
